@@ -1,0 +1,12 @@
+# Configuração com IDs reais da empresa (use microsoft_app.example.json como modelo)
+microsoft_app.json
+# Dados locais gerados pelo programa
+microsoft_user.json
+teams_inbox.jsonl
+# Python
+.venv/
+__pycache__/
+*.pyc
+# Node / TypeScript
+node_modules/
+dist/

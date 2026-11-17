@@ -1,0 +1,29 @@
+[
+  {
+    "origem": "Teams",
+    "assunto": "Revisar apresentação do projeto",
+    "descricao": "Conferir os números da apresentação antes da reunião de acompanhamento.",
+    "data_recebimento": "2026-10-05",
+    "prazo": "2026-10-05",
+    "prioridade": "Alta",
+    "status": "Em andamento"
+  },
+  {
+    "origem": "E-mail",
+    "assunto": "Enviar resumo semanal",
+    "descricao": "Preparar um resumo das atividades da semana e compartilhar com a equipe.",
+    "data_recebimento": "2026-10-05",
+    "prazo": "2026-10-08",
+    "prioridade": "Média",
+    "status": "Pendente"
+  },
+  {
+    "origem": "Teams",
+    "assunto": "Organizar notas da reunião",
+    "descricao": "Agrupar as decisões e os próximos passos anotados na reunião.",
+    "data_recebimento": "2026-10-02",
+    "prazo": "2026-10-09",
+    "prioridade": "Baixa",
+    "status": "Concluído"
+  }
+]
